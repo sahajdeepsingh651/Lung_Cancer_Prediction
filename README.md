@@ -12,7 +12,7 @@ This project aims to build a Lung Cancer Prediction System using Convolutional N
 - [Using the Model](#using-the-model)
 - [Results](#results)
 - [Acknowledgements](#acknowledgements)
-- [License](#license)
+
 
 ## Introduction
 
@@ -256,12 +256,6 @@ We acknowledge and thank the contributors to the [Chest CT Scan Images Dataset](
 
 
 
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-Feel free to use, modify, or distribute this code for educational and non-commercial purposes. Refer to the LICENSE file for more details.
 
 
 
